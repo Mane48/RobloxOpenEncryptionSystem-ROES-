@@ -29,8 +29,14 @@ Shared: Common encryption utilities and networking protocols.
 
 Tools: Scripts for local bytecode compilation and mutation.
 
-# 📜 License & Usage
-This project is open-source under the MIT License.
+## 📜 License
+This project, **ROES**, is developed by **Emmanuel S**. 
+
+It is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+
+- **Non-Commercial:** You may NOT sell this project or use it for commercial profit.
+- **Attribution:** You must credit me if you fork or redistribute this code.
+- **Share-Alike:** Any modified versions must be released under this same license.
 
 Contribution Rules:
 Modify: Feel free to modify, optimize, or harden the VM.
